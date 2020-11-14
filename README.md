@@ -1,1 +1,3 @@
-# Parques-eolicos
+# Optimización de generación de energía en un parque eólico.
+
+En este trabajo tenemos como objetivo enfocarnos en encontrar una forma de optimizar la ubicación de aerogeneradores en parques eólicos aplicando Algoritmos Genéticos. Para realizarlo tomaremos en cuenta diferentes factores del ambiente, tales como, la rugosidad del terreno, la velocidad del viento, su perturbación, las distancias entre aerogeneradores, etc. Además, lo abordaremos con un enfoque que sea de utilidad para decisiones tanto políticas como económicas, es decir, se podrá decidir cuales podrían ser los mejores lugares (mejores condiciones ambientales) para poder soportar una cierta cantidad predefinida de aerogeneradores.
